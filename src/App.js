@@ -19,7 +19,7 @@ class App extends Component{
   render(){
     return (
       <div>
-        <Router basename="/AutomaTicket-Web-Frontend">
+        <Router basename="/web_ticket">
           <Header />
           <Switch>
             <Route exact path="/" component={Home} />
