@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## live website url : 
 
-agilsaputra.github.io/web_ticket/
+http://agilsaputra.github.io/web_ticket/
 
 ## Available Scripts
 
