@@ -111,7 +111,7 @@ class Header extends Component {
                 <Img width="60" height="60" src={logo} />
               </Grid>
               <Grid className={classes.headerTitle}>
-                <h2>AutomaTicket</h2>
+                <h2>Ticketin Aja</h2>
               </Grid>
             </Link>
             <Grid >
